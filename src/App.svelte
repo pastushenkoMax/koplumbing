@@ -39,8 +39,8 @@
 </main>
 
 <style>
-  .top{
+  /* .top{
     background: linear-gradient(180deg, #DAEAF5 0%, rgba(218, 234, 245, 0.7) 19.44%, rgba(255, 255, 255, 0) 100%);
-  }
+  } */
 </style>
 
