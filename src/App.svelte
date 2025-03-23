@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import NavBar from "./lib/components/nav/NavBar.svelte"
   import SecondaryNavBar from "./lib/components/nav/SecondaryNavBar.svelte"
   import Hero from "./lib/components/hero/Hero.svelte"
@@ -39,8 +39,8 @@
 </main>
 
 <style>
-  /* .top{
+  .top{
     background: linear-gradient(180deg, #DAEAF5 0%, rgba(218, 234, 245, 0.7) 19.44%, rgba(255, 255, 255, 0) 100%);
-  } */
+  }
 </style>
 
